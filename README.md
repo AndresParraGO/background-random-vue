@@ -1,24 +1,18 @@
-# background-random-vue
+# Background Random Vue
 
-## Project setup
-```
-yarn install
-```
+🔥🔥 Random backgrounds and show the color code. Developed with Vue2.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+#### Link Preview [https://background-random-vue.netlify.app/](https://background-random-vue.netlify.app/)
 
-### Compiles and minifies for production
+![Preview](https://repository-images.githubusercontent.com/322917849/29e3d980-4205-11eb-9ad1-e557278d7678)
+
+
+#### 👨‍💻 Dev
 ```
-yarn build
+yarn serve o npm run serve
 ```
 
-### Lints and fixes files
+#### 🧱 Build
 ```
-yarn lint
+yarn build o npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
